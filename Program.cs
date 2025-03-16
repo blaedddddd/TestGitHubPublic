@@ -1,2 +1,1 @@
-﻿Console.ForegroundColor = ConsoleColor.DarkGray;
-Console.WriteLine("Hi!");
+﻿int i = 5 + 5;
