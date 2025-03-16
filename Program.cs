@@ -1,2 +1,2 @@
-﻿Console.ForegroundColor = ConsoleColor.Yellow;
+﻿Console.ForegroundColor = ConsoleColor.DarkGray;
 Console.WriteLine("Hi!");
