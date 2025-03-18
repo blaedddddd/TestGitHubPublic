@@ -1,3 +1,3 @@
 Console.ForegroundColor = ConsoleColor.Green;
-Console.WriteLine("Heelo");
-Console.WriteLine("Heelo");
+Console.WriteLine("Hello");
+Console.WriteLine("Hello");
