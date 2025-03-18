@@ -1,2 +1,2 @@
-int i = 5 + 5;
-string test = "fishi";
+Console.ForegroundColor = ConsoleColor.Green;
+Console.WriteLine("Heelo");
